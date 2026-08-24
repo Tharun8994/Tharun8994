@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./code_cap_transparent_v1.png" width="480" alt="Tharun Kumar Reddy - Code Cap" />
+<img src="./code_cap_transparent_v1.png" width="460" alt="Tharun Kumar Reddy - Code Cap" />
 
 <br/>
 
@@ -10,15 +10,8 @@
 
 <br/>
 
-<!-- Holographic Futuristic AI HUD Matrix Animation -->
-<img src="./ai_hud_matrix.gif" width="100%" alt="AI System Diagnostics HUD" />
-
-<br/>
-<br/>
-
-### 🏆 GitHub Achievements & Rank Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tharun8994&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Tharun's GitHub Trophies" />
+<!-- Floating 3D Neural AI Core Animation (Zero Boxes / 100% Transparent) -->
+<img src="./neural_ai_core.gif" width="340" alt="Neural AI Core" />
 
 <br/>
 <br/>
