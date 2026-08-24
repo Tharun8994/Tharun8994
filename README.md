@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./developer_banner.png" width="100%" alt="Developer Banner" />
+<img src="./code_portrait.png" width="400" alt="Code Portrait" />
 
 <br/>
 <br/>
