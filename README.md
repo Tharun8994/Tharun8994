@@ -1,20 +1,23 @@
 <div align="center">
 
 ```text
-                     ▄▄▄▄▄▄▄             tharun@ai-workstation
-                  ▄███████████▄          ─────────────────────
-                ▄███████████████▄        Role          : Agentic AI Systems Architect
-               ███████████████████       AI Models     : Gemini 2.5 Flash • Gemma 4 GGUF • Ollama
-             ▄█████████████████████      Agentic Core  : ChromaDB Vectors • LangChain • Multi-Agent
-            ███████████████████████      Stack         : Python 3.11+ • FastAPI • React 19 • Flutter
-           ████████████████████████      Frontend/App  : Vite 6 • Tailwind 4 • Tauri 2.0 • Leaflet
-          █████████▀▀▀▀▀▀▀▀▀▀██████      Hardware/IoT  : ESP32 GPS • Firebase RTDB • HLS Streaming
-          ███████  ▄▄▄   ▄▄▄  █████      Specialty     : Air-Gapped Sovereign AI & Real-Time Telemetry
-          ███████ ▀▀▀█▀ ▀█▀▀▀ █████      Uptime        : Shipping High-Impact Systems
-           ██████   ▄▀   ▀▄   █████      Status        : Architecting Next-Gen Autonomous Workflows
-            █████▄   ▀▀▀▀▀   ▄████       Location      : India (IST / UTC+5:30)
-             ▀█████▄▄▄▄▄▄▄▄▄█████▀
-               ▀███████████████▀
+                          ┌────────┐
+                       ▄██│ button │██▄
+                    ▄█████└────────┘█████▄
+                 ▄█████▀▀    ▄▄▄    ▀▀█████▄
+              ▄█████▀     ▄███████▄     ▀█████▄
+           ▄█████▀      ▄███████████▄      ▀█████▄
+        ▄█████▀        ███ <CODE/> ███        ▀█████▄
+      ▄█████▀          ███  AGENT  ███          ▀█████▄
+     █████▀             ▀███████████▀             ▀█████
+    █████───────────────────────────────────────────█████
+   █████    import asyncio, fastapi, google_genai    █████
+  █████     from chroma import DenseVectorStore       █████
+ █████      const agent = new AutonomousCouncil()      █████
+█████████████████████████████████████████████████████████████
+ ▀█████████████████████████████████████████████████████████▀
+   ▀▀███████████████████████████████████████████████████▀▀
+       ▀▀▀█████████████████████████████████████████▀▀▀
 ```
 
 <br/>
