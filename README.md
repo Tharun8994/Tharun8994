@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="./code_cap_transparent_v1.png" width="520" alt="Tharun Kumar Reddy - Code Cap" />
+<img src="./code_cap_transparent_v1.png" width="500" alt="Tharun Kumar Reddy - Code Cap" />
+
+<br/>
+
+<a href="https://github.com/Tharun8994">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=61DAFB&background=0D111700&center=true&vCenter=true&width=650&height=50&lines=Agentic+AI+Systems+Architect;Building+Autonomous+Multi-Agent+Workflows;Sovereign+Edge+AI+%26+Private+LLM+Workspaces;Ask+me+how+AI+behaves+%26+where+to+adopt+it!" alt="Typing Animation" />
+</a>
 
 <br/>
 <br/>
@@ -69,6 +75,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun8994&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=61dafb&text_color=e6edf3&border_color=30363d" alt="Top Languages" height="165" />
 &nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun8994&bg_color=0d1117&color=61dafb&line=61dafb&point=ffca28&area=true&hide_border=false&border_color=30363d" alt="Activity Graph" height="165" />
+
+<br/>
+<br/>
+
+<!-- Contribution Snake Animation -->
+<img src="https://raw.githubusercontent.com/Tharun8994/Tharun8994/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
