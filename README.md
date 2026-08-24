@@ -1,25 +1,8 @@
 <div align="center">
 
-```text
-                          ┌────────┐
-                       ▄██│ button │██▄
-                    ▄█████└────────┘█████▄
-                 ▄█████▀▀    ▄▄▄    ▀▀█████▄
-              ▄█████▀     ▄███████▄     ▀█████▄
-           ▄█████▀      ▄███████████▄      ▀█████▄
-        ▄█████▀        ███ <CODE/> ███        ▀█████▄
-      ▄█████▀          ███  AGENT  ███          ▀█████▄
-     █████▀             ▀███████████▀             ▀█████
-    █████───────────────────────────────────────────█████
-   █████    import asyncio, fastapi, google_genai    █████
-  █████     from chroma import DenseVectorStore       █████
- █████      const agent = new AutonomousCouncil()      █████
-█████████████████████████████████████████████████████████████
- ▀█████████████████████████████████████████████████████████▀
-   ▀▀███████████████████████████████████████████████████▀▀
-       ▀▀▀█████████████████████████████████████████▀▀▀
-```
+<img src="./developer_banner.jpg" width="100%" alt="Developer Banner" />
 
+<br/>
 <br/>
 
 ### 🛠️ Tech Arsenal & Stack
@@ -62,5 +45,5 @@
 ---
 
 <div align="center">
-  <sub>Building the future of Autonomous Agentic Workflows, Sovereign Edge AI & Real-Time Telemetry. MIT Licensed.</sub>
+  <sub>Building the future of Autonomous Agentic Workflows, Sovereign Edge AI & Real-Time Telemetry.</sub>
 </div>
