@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./code_portrait.png" width="400" alt="Code Portrait" />
+<img src="./code_cap.png" width="500" alt="Code Cap" />
 
 <br/>
 <br/>
