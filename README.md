@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./code_cap.png" width="500" alt="Code Cap" />
+<img src="./fern_cap.png" width="500" alt="Code Cap" />
 
 <br/>
 <br/>
