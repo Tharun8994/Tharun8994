@@ -38,6 +38,14 @@
 
 ---
 
+### 💬 What I'm Doing & AI Advisory
+
+* 💬 **Ask Me About:** How AI models behave, identifying high-impact places to adopt AI in real-world products, building sovereign air-gapped agentic workflows, and deploying reliable AI tooling.
+* 🔭 **Currently Architecting:** Sovereign workplace copilots with local ChromaDB vector indexing and hybrid dual-model consensus councils.
+* 🧠 **Active Research:** Model Context Protocol (MCP) tool servers, autonomous planning algorithms, and zero-egress PII sanitization pipelines.
+
+---
+
 ### 💡 Core Focus & AI-Era Interests
 
 * 🤖 **Autonomous Multi-Agent Workflows:** Developing collaborative consensus councils, dynamic query routers, and automated pre-egress PII sanitization for secure enterprise environments.
@@ -45,6 +53,24 @@
 * 🛠️ **Model Context Protocol (MCP) & Tooling:** Building custom MCP servers, semantic vector search with ChromaDB, and LangChain pipelines.
 * ☁️ **Cloud & Serverless Architectures:** Deploying scalable edge functions on Vercel, Firebase real-time sync, and high-performance FastAPI backends.
 * 📱 **High-Performance Cross-Platform Apps:** Building modern React 19 PWAs, Flutter 3.x radar applications, and native desktop clients with Tauri 2.0.
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tharun8994&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=61dafb&text_color=e6edf3&icon_color=ffca28&border_color=30363d" alt="Tharun's GitHub Stats" height="165" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun8994&theme=tokyonight&background=0d1117&border=30363d&stroke=30363d&ring=61dafb&fire=ffca28&currStreakLabel=61dafb" alt="Tharun's Streak" height="165" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun8994&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=61dafb&text_color=e6edf3&border_color=30363d" alt="Top Languages" height="165" />
+&nbsp;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun8994&bg_color=0d1117&color=61dafb&line=61dafb&point=ffca28&area=true&hide_border=false&border_color=30363d" alt="Activity Graph" height="165" />
+
+</div>
 
 ---
 
