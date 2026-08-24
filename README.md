@@ -59,10 +59,21 @@
 
 ---
 
-### 📈 Contribution Activity Graph
+### 📈 Contribution Graph & Snake Eater
 
 <div align="center">
 
+<!-- Animated Contribution Snake Eating the Commit Grid -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tharun8994/Tharun8994/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tharun8994/Tharun8994/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Tharun8994/Tharun8994/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<br/>
+<br/>
+
+<!-- Real-Time Activity Sparkline -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun8994&bg_color=0d1117&color=61dafb&line=61dafb&point=ffca28&area=true&hide_border=false&border_color=30363d" alt="Tharun's Activity Graph" width="100%" />
 
 </div>
