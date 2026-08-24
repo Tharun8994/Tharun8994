@@ -9,6 +9,18 @@
 </a>
 
 <br/>
+
+<!-- Holographic Futuristic AI HUD Matrix Animation -->
+<img src="./ai_hud_matrix.gif" width="100%" alt="AI System Diagnostics HUD" />
+
+<br/>
+<br/>
+
+### 🏆 GitHub Achievements & Rank Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tharun8994&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Tharun's GitHub Trophies" />
+
+<br/>
 <br/>
 
 ### 🛠️ Tech Arsenal & Stack
@@ -40,38 +52,7 @@
 [![WebSockets](https://img.shields.io/badge/WebSockets-Real--Time-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
-<br/>
-
-<!-- Interactive Animated Skill Icons Dock -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,flutter,dart,tailwind,tauri,nodejs,firebase,workers&theme=dark" alt="Skill Icons" />
-</a>
-
 </div>
-
----
-
-### 🧠 AI Advisory & Engineering Blueprint
-
-```yaml
-# Developer Operational Profile
-identity:
-  engineer: "Bobbiti Tharun Kumar Reddy"
-  specialization: "Autonomous Agentic Workflows & Sovereign Edge AI"
-  location: "India (IST / UTC+5:30)"
-
-advisory:
-  ask_me_about:
-    - "How AI models actually behave under the hood & avoiding hallucinations"
-    - "Where and how to strategically adopt AI into production software"
-    - "Architecting air-gapped zero-egress LLM systems for privacy"
-    - "Designing robust Model Context Protocol (MCP) tool servers"
-
-active_systems:
-  current_build: "Air-Gapped Copilot with Local ChromaDB & Gemma GGUF"
-  telemetry_pipeline: "Sub-Second Fleet GPS Tracking with Leaflet Radar"
-  cloud_architecture: "FastAPI Backends + Vercel Edge Serverless Functions"
-```
 
 ---
 
@@ -90,12 +71,6 @@ active_systems:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun8994&bg_color=0d1117&color=61dafb&line=61dafb&point=ffca28&area=true&hide_border=false&border_color=30363d" alt="Tharun's Activity Graph" width="100%" />
-
-<br/>
-<br/>
-
-<!-- Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/Tharun8994/Tharun8994/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
