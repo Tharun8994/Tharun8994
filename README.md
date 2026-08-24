@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./fern_cap.png" width="480" alt="Tharun Kumar Reddy - Code Cap" />
+<img src="./cap_code_showcase.png" width="550" alt="Tharun Kumar Reddy - Code Cap" />
 
 <br/>
 <br/>
