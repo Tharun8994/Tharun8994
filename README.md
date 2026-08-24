@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./code_cap_transparent_v1.png" width="500" alt="Tharun Kumar Reddy - Code Cap" />
+<img src="./code_cap_transparent_v1.png" width="480" alt="Tharun Kumar Reddy - Code Cap" />
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Arsenal & Stack
 
-#### 🤖 AI, Frameworks & Autonomous Agents
+#### 🤖 AI, Frontier Frameworks & Autonomous Agents
 [![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
@@ -32,7 +32,7 @@
 [![Tauri](https://img.shields.io/badge/Tauri_2.0-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)](https://tauri.app/)
 [![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)](https://leafletjs.com/)
 
-#### ⚙️ Backend, Cloud & Serverless Infrastructure
+#### ⚙️ Backend, Cloud & Serverless
 [![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![Vercel](https://img.shields.io/badge/Vercel-Cloud_Hosting-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Serverless](https://img.shields.io/badge/Serverless-Functions-FD5750?style=for-the-badge&logo=serverless&logoColor=white)](https://www.serverless.com/)
@@ -40,15 +40,38 @@
 [![WebSockets](https://img.shields.io/badge/WebSockets-Real--Time-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
+<br/>
+
+<!-- Interactive Animated Skill Icons Dock -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,flutter,dart,tailwind,tauri,nodejs,firebase,workers&theme=dark" alt="Skill Icons" />
+</a>
+
 </div>
 
 ---
 
-### 💬 What I'm Doing & AI Advisory
+### 🧠 AI Advisory & Engineering Blueprint
 
-* 💬 **Ask Me About:** How AI models behave, identifying high-impact places to adopt AI in real-world products, building sovereign air-gapped agentic workflows, and deploying reliable AI tooling.
-* 🔭 **Currently Architecting:** Sovereign workplace copilots with local ChromaDB vector indexing and hybrid dual-model consensus councils.
-* 🧠 **Active Research:** Model Context Protocol (MCP) tool servers, autonomous planning algorithms, and zero-egress PII sanitization pipelines.
+```yaml
+# Developer Operational Profile
+identity:
+  engineer: "Bobbiti Tharun Kumar Reddy"
+  specialization: "Autonomous Agentic Workflows & Sovereign Edge AI"
+  location: "India (IST / UTC+5:30)"
+
+advisory:
+  ask_me_about:
+    - "How AI models actually behave under the hood & avoiding hallucinations"
+    - "Where and how to strategically adopt AI into production software"
+    - "Architecting air-gapped zero-egress LLM systems for privacy"
+    - "Designing robust Model Context Protocol (MCP) tool servers"
+
+active_systems:
+  current_build: "Air-Gapped Copilot with Local ChromaDB & Gemma GGUF"
+  telemetry_pipeline: "Sub-Second Fleet GPS Tracking with Leaflet Radar"
+  cloud_architecture: "FastAPI Backends + Vercel Edge Serverless Functions"
+```
 
 ---
 
@@ -62,19 +85,11 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📈 Contribution Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tharun8994&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=61dafb&text_color=e6edf3&icon_color=ffca28&border_color=30363d" alt="Tharun's GitHub Stats" height="165" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun8994&theme=tokyonight&background=0d1117&border=30363d&stroke=30363d&ring=61dafb&fire=ffca28&currStreakLabel=61dafb" alt="Tharun's Streak" height="165" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun8994&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=61dafb&text_color=e6edf3&border_color=30363d" alt="Top Languages" height="165" />
-&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun8994&bg_color=0d1117&color=61dafb&line=61dafb&point=ffca28&area=true&hide_border=false&border_color=30363d" alt="Activity Graph" height="165" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun8994&bg_color=0d1117&color=61dafb&line=61dafb&point=ffca28&area=true&hide_border=false&border_color=30363d" alt="Tharun's Activity Graph" width="100%" />
 
 <br/>
 <br/>
